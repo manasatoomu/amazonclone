@@ -211,6 +211,11 @@ footer{
 
 }
 
+.foot-panel1>a{
+    color:white;
+    font-size: x-large;    
+}
+
 .foot-panel2 {
     background-color:#222f3d;
     color:white;
