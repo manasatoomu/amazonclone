@@ -202,7 +202,6 @@ footer{
 }
 .foot-panel1 {
     background-color:#37475a;
-    color:white;
     height:50px;
     display:flex;
     justify-content:center;
@@ -213,7 +212,8 @@ footer{
 
 .foot-panel1>a{
     color:white;
-    font-size: x-large;    
+    font-size: x-large;
+    
 }
 
 .foot-panel2 {
